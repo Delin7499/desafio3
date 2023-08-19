@@ -1,0 +1,29 @@
+[
+  {
+    "id": 0,
+    "code": "101010",
+    "title": "p1",
+    "description": "p1",
+    "price": 100,
+    "thumbnail": "no hay",
+    "stock": 123
+  },
+  {
+    "id": 1,
+    "code": "10101adssad0",
+    "title": "p1",
+    "description": "p1",
+    "price": 100,
+    "thumbnail": "no hay",
+    "stock": 123
+  },
+  {
+    "id": 2,
+    "code": "10",
+    "title": "p1",
+    "description": "p1",
+    "price": 100,
+    "thumbnail": "no hay",
+    "stock": 123
+  }
+]
