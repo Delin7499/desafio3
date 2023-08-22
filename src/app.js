@@ -22,8 +22,8 @@ app.get("/products/:pid", (req, res) => {
   if (p) {
     return res.send(p);
   } else {
-    return res.status(404).send();
+    return res.status(404).send(`NOT FOUND`);
   }
 });
 
-app.listen(8080, () => console.log("Server cor"));
+app.listen(8080, () => console.log("Server corriendo"));
